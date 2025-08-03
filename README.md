@@ -1,5 +1,7 @@
 # DYMUN-BOT
-Crisis committee in MUN is super thrilling. However, the process of handling directives is extremely manual and time-consuming, more often than not lead to foreseeable problems. This bot helps automate the task and more than that! I uploaded the basic one and the one I made exclusively for UNSC at DYMUN'24.
+Update: I have uploaded a new version for DYMUN'25 Crisis Council.
+--------------------------------------------------------------------------------------------
+Crisis committee in MUN is super thrilling. However, the process of handling directives is extremely manual and time-consuming, more often than not lead to foreseeable problems. This bot helps automate the task and more than that! I uploaded the basic one and the one I made exclusively for UNSC at DYMUN'24. 
 --------------------------------------------------------------------------------------------
 The bot is Discord-based. Please watch the video on how to create a Discord bot using Python on Youtube by FreeCodeCamp. The python codes (in the master branch) only account for the source code.
 Crisis Directors only need to process in the main channels with 3 buttons. It is unlimited, really.
